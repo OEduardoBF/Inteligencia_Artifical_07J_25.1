@@ -1,5 +1,5 @@
 # Inteligência Artificial - 07J
-Grupo E.G.J.M.
+## Grupo E.G.J.M.
 
 10400894 - Eduardo Bispo Felizardo<br>
 10401400 - Gustavo Augusto Alves Pivatto<br>
